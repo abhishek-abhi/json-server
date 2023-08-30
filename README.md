@@ -1,6 +1,7 @@
 ## Try it
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+https://my-json-server.typicode.com/abhishek-abhi/json-server/response
 
 ## Use your own data
 
