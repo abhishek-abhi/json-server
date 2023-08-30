@@ -1,6 +1,8 @@
 {
-  "type": 0,
-  "description": "This is amazing....",
-  "reports": null,
-  "tableData": null
+  "response": {
+    "type": 0,
+    "description": "This is amazing....",
+    "reports": null,
+    "tableData": null
+  }
 }
